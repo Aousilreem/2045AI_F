@@ -1,5 +1,5 @@
 //✠▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ஜ☢❦۞❦☢ஜ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬✠//BY: POULAZ (Angry Black)
-//copyright © Angry Black 2021.//❦Angry Black❦
+//copyright © Angry Black 2020.//❦Angry Black❦
 
 const Discord = require("discord.js");
 const myid = ['801396733241851934'];//هنا بتحط الايدى تبع حسابك و هو رقم طول
