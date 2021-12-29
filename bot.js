@@ -1,8 +1,8 @@
 //✠▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ஜ☢❦۞❦☢ஜ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬✠//BY: POULAZ (Angry Black)
-//copyright © Angry Black 2020.//❦Angry Black❦
+//copyright © Angry Black 2021.//❦Angry Black❦
 
 const Discord = require("discord.js");
-const myid = ['Your ID'];//هنا بتحط الايدى تبع حسابك و هو رقم طول
+const myid = ['801396733241851934'];//هنا بتحط الايدى تبع حسابك و هو رقم طول
 const prefix = ['$']; 
 const client = new Discord.Client();
 const client2 = new Discord.Client();
@@ -30,7 +30,7 @@ message.channel.send('#daily')
 message.channel.send('#credits')
   }
   if(message.content ===  'u1'){
-message.channel.send("©angryblack YT")
+message.channel.send("#user")
   }     
   if(message.content === 'r1'){
 message.channel.send("#rep "+"<@" + myid + ">")
@@ -90,7 +90,7 @@ message.channel.send('#daily')
 message.channel.send('#credits')
   }
   if(message.content ===  'u1'){
-message.channel.send("©angryblack YT")
+message.channel.send("#user")
   }     
   if(message.content === 'r4'){
 message.channel.send("#rep "+"<@" + myid + ">")
@@ -145,7 +145,7 @@ message.channel.send('#profile')
 //✠▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ஜ☢❦۞❦☢ஜ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬✠//BY: POULAZ (Angry Black)
 
 client.on("ready", () => {
-  console.log('Bot created by ©Angry Black')
+  console.log('Bot created by 2045')
 })
 
 client.on('message', message => {
